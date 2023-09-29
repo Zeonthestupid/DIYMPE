@@ -1,0 +1,8 @@
+#How it will work
+Because of how I am building this, you will need an external device with a midi cable in order to connect
+
+
+Midi device -> Arduino -> MIDIUSB <- My controller
+                            |
+                            v
+                    Midi compatible software
